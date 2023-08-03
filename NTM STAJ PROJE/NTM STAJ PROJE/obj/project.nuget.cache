@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8rWWkzsD6nHf1Ytoc1q0JcN87lFKsamfzs/xqM4LcSkHLrQiwVVvVfw4BVJ6dLqvf17BckRSCiGjHD+6DxiNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cihan\\source\\repos\\NTM STAJ PROJE\\NTM STAJ PROJE\\NTM STAJ PROJE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cihan\\.nuget\\packages\\wisej-3\\3.2.3\\wisej-3.3.2.3.nupkg.sha512",
+    "C:\\Users\\cihan\\.nuget\\packages\\wisej-3-ribbonbar\\3.2.3\\wisej-3-ribbonbar.3.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

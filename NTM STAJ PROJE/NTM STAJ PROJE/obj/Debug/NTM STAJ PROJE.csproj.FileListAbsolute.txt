@@ -1,0 +1,26 @@
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\NTM STAJ PROJE.dll.config
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\NTM STAJ PROJE.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\NTM STAJ PROJE.pdb
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\Wisej.Framework.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\de\Wisej.Framework.resources.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\es\Wisej.Framework.resources.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\fr\Wisej.Framework.resources.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\it\Wisej.Framework.resources.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\pt\Wisej.Framework.resources.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\tr\Wisej.Framework.resources.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM STAJ PROJE.csproj.AssemblyReference.cache
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM STAJ PROJE.csproj.CoreCompileInputs.cache
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM STAJ PROJE.csproj.CopyComplete
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM STAJ PROJE.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM STAJ PROJE.pdb
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\DataAccessLayer.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\EntityLayer.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\DataAccessLayer.pdb
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\EntityLayer.pdb
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM_STAJ_PROJE.Window1.resources
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM STAJ PROJE.csproj.GenerateResource.cache
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\bin\Wisej.Web.Ext.RibbonBar.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM_STAJ_PROJE.Properties.Resources.resources
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM_STAJ_PROJE.Forms.frmDepartmanlar.resources
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM_STAJ_PROJE.Forms.frmPersonelListesi.resources
+C:\Users\cihan\source\repos\NTM STAJ PROJE\NTM STAJ PROJE\obj\Debug\NTM_STAJ_PROJE.Forms.frmPersonelİstatistikleri.resources

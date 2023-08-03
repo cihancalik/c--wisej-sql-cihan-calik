@@ -1,0 +1,6 @@
+C:\Users\cihan\source\repos\NTM STAJ PROJE\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\cihan\source\repos\NTM STAJ PROJE\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\cihan\source\repos\NTM STAJ PROJE\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cihan\source\repos\NTM STAJ PROJE\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\cihan\source\repos\NTM STAJ PROJE\EntityLayer\obj\Debug\EntityLayer.pdb
